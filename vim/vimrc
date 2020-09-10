@@ -9,6 +9,8 @@ set softtabstop=4
 set smarttab
 set expandtab
 set pastetoggle=<f2>
+set wildmenu
+set wildmode=longest,list,full
 
 map gn :bn<cr>
 map gp :bp<cr>
